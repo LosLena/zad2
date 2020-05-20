@@ -1,0 +1,244 @@
+1.Afghanistan - https://en.wikipedia.org/wiki/Afghanistan
+2.Angola - https://en.wikipedia.org/wiki/Angola
+3.Anguilla - https://en.wikipedia.org/wiki/Anguilla
+5.Albania - https://en.wikipedia.org/wiki/Albania
+6.Andorra - https://en.wikipedia.org/wiki/Andorra
+7.United Arab Emirates - https://en.wikipedia.org/wiki/United_Arab_Emirates
+8.Argentina - https://en.wikipedia.org/wiki/Argentina
+9.Armenia - https://en.wikipedia.org/wiki/Armenia
+10.American Samoa - https://en.wikipedia.org/wiki/American_Samoa
+11.Antarctica - https://en.wikipedia.org/wiki/Antarctica
+12.French Southern and Antarctic Lands - https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands
+13.Antigua and Barbuda - https://en.wikipedia.org/wiki/Antigua_and_Barbuda
+14.Australia - https://en.wikipedia.org/wiki/Australia
+15.Austria - https://en.wikipedia.org/wiki/Austria
+16.Azerbaijan - https://en.wikipedia.org/wiki/Azerbaijan
+17.Burundi - https://en.wikipedia.org/wiki/Burundi
+18.Belgium - https://en.wikipedia.org/wiki/Belgium
+19.Benin - https://en.wikipedia.org/wiki/Benin
+20.Burkina Faso - https://en.wikipedia.org/wiki/Burkina_Faso
+21.Bangladesh - https://en.wikipedia.org/wiki/Bangladesh
+22.Bulgaria - https://en.wikipedia.org/wiki/Bulgaria
+23.Bahrain - https://en.wikipedia.org/wiki/Bahrain
+24.Bahamas - https://en.wikipedia.org/wiki/The_Bahamas
+25.Bosnia and Herzegovina - https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+27.Saint Helena, Ascension and Tristan da Cunha - https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha
+28.Belarus - https://en.wikipedia.org/wiki/Belarus
+29.Belize - https://en.wikipedia.org/wiki/Belize
+30.Bermuda - https://en.wikipedia.org/wiki/Bermuda
+31.Bolivia - https://en.wikipedia.org/wiki/Bolivia
+32.Caribbean Netherlands - https://en.wikipedia.org/wiki/Caribbean_Netherlands
+33.Brazil - https://en.wikipedia.org/wiki/Brazil
+34.Barbados - https://en.wikipedia.org/wiki/Barbados
+35.Brunei - https://en.wikipedia.org/wiki/Brunei
+36.Bhutan - https://en.wikipedia.org/wiki/Bhutan
+37.Bouvet Island - https://en.wikipedia.org/wiki/Bouvet_Island
+38.Botswana - https://en.wikipedia.org/wiki/Botswana
+39.Central African Republic - https://en.wikipedia.org/wiki/Central_African_Republic
+40.Canada - https://en.wikipedia.org/wiki/Canada
+41.Cocos (Keeling) Islands - https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands
+42.Switzerland - https://en.wikipedia.org/wiki/Switzerland
+43.Chile - https://en.wikipedia.org/wiki/Chile
+44.China - https://en.wikipedia.org/wiki/China
+45.Ivory Coast - https://en.wikipedia.org/wiki/Ivory_Coast
+46.Cameroon - https://en.wikipedia.org/wiki/Cameroon
+47.DR Congo - https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
+48.Republic of the Congo - https://en.wikipedia.org/wiki/Republic_of_the_Congo
+49.Cook Islands - https://en.wikipedia.org/wiki/Cook_Islands
+50.Colombia - https://en.wikipedia.org/wiki/Colombia
+51.Comoros - https://en.wikipedia.org/wiki/Comoros
+52.Cape Verde - https://en.wikipedia.org/wiki/Cape_Verde
+53.Costa Rica - https://en.wikipedia.org/wiki/Costa_Rica
+54.Cuba - https://en.wikipedia.org/wiki/Cuba
+56.Christmas Island - https://en.wikipedia.org/wiki/Christmas_Island
+57.Cayman Islands - https://en.wikipedia.org/wiki/Cayman_Islands
+58.Cyprus - https://en.wikipedia.org/wiki/Cyprus
+59.Czechia - https://en.wikipedia.org/wiki/Czech_Republic
+60.Germany - https://en.wikipedia.org/wiki/Germany
+61.Djibouti - https://en.wikipedia.org/wiki/Djibouti
+62.Dominica - https://en.wikipedia.org/wiki/Dominica
+63.Denmark - https://en.wikipedia.org/wiki/Denmark
+64.Dominican Republic - https://en.wikipedia.org/wiki/Dominican_Republic
+65.Algeria - https://en.wikipedia.org/wiki/Algeria
+66.Ecuador - https://en.wikipedia.org/wiki/Ecuador
+67.Egypt - https://en.wikipedia.org/wiki/Egypt
+68.Eritrea - https://en.wikipedia.org/wiki/Eritrea
+69.Western Sahara - https://en.wikipedia.org/wiki/Western_Sahara
+70.Spain - https://en.wikipedia.org/wiki/Spain
+71.Estonia - https://en.wikipedia.org/wiki/Estonia
+72.Ethiopia - https://en.wikipedia.org/wiki/Ethiopia
+73.Finland - https://en.wikipedia.org/wiki/Finland
+74.Fiji - https://en.wikipedia.org/wiki/Fiji
+75.Falkland Islands - https://en.wikipedia.org/wiki/Falkland_Islands
+76.France - https://en.wikipedia.org/wiki/France
+77.Faroe Islands - https://en.wikipedia.org/wiki/Faroe_Islands
+78.Micronesia - https://en.wikipedia.org/wiki/Micronesia
+79.Gabon - https://en.wikipedia.org/wiki/Gabon
+80.United Kingdom - https://en.wikipedia.org/wiki/United_Kingdom
+81.Georgia - https://en.wikipedia.org/wiki/Georgia
+82.Guernsey - https://en.wikipedia.org/wiki/Guernsey
+83.Ghana - https://en.wikipedia.org/wiki/Ghana
+84.Gibraltar - https://en.wikipedia.org/wiki/Gibraltar
+85.Guinea - https://en.wikipedia.org/wiki/Guinea
+86.Guadeloupe - https://en.wikipedia.org/wiki/Guadeloupe
+87.Gambia - https://en.wikipedia.org/wiki/The_Gambia
+88.Guinea-Bissau - https://en.wikipedia.org/wiki/Guinea-Bissau
+89.Equatorial Guinea - https://en.wikipedia.org/wiki/Equatorial_Guinea
+90.Greece - https://en.wikipedia.org/wiki/Greece
+91.Grenada - https://en.wikipedia.org/wiki/Grenada
+92.Greenland - https://en.wikipedia.org/wiki/Greenland
+93.Guatemala - https://en.wikipedia.org/wiki/Guatemala
+94.French Guiana - https://en.wikipedia.org/wiki/French_Guiana
+95.Guam - https://en.wikipedia.org/wiki/Guam
+96.Guyana - https://en.wikipedia.org/wiki/Guyana
+97.Hong Kong - https://en.wikipedia.org/wiki/Hong_Kong
+98.Heard Island and McDonald Islands - https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands
+99.Honduras - https://en.wikipedia.org/wiki/Honduras
+100.Croatia - https://en.wikipedia.org/wiki/Croatia
+101.Haiti - https://en.wikipedia.org/wiki/Haiti
+102.Hungary - https://en.wikipedia.org/wiki/Hungary
+103.Indonesia - https://en.wikipedia.org/wiki/Indonesia
+104.Isle of Man - https://en.wikipedia.org/wiki/Isle_of_Man
+105.India - https://en.wikipedia.org/wiki/India
+106.British Indian Ocean Territory - https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory
+107.Ireland - https://en.wikipedia.org/wiki/Ireland
+108.Iran - https://en.wikipedia.org/wiki/Iran
+109.Iraq - https://en.wikipedia.org/wiki/Iraq
+110.Iceland - https://en.wikipedia.org/wiki/Iceland
+111.Israel - https://en.wikipedia.org/wiki/Israel
+112.Italy - https://en.wikipedia.org/wiki/Italy
+113.Jamaica - https://en.wikipedia.org/wiki/Jamaica
+114.Jersey - https://en.wikipedia.org/wiki/Jersey
+115.Jordan - https://en.wikipedia.org/wiki/Jordan
+116.Japan - https://en.wikipedia.org/wiki/Japan
+117.Kazakhstan - https://en.wikipedia.org/wiki/Kazakhstan
+118.Kenya - https://en.wikipedia.org/wiki/Kenya
+119.Kyrgyzstan - https://en.wikipedia.org/wiki/Kyrgyzstan
+120.Cambodia - https://en.wikipedia.org/wiki/Cambodia
+121.Kiribati - https://en.wikipedia.org/wiki/Kiribati
+122.Saint Kitts and Nevis - https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis
+123.South Korea - https://en.wikipedia.org/wiki/South_Korea
+124.Kosovo - https://en.wikipedia.org/wiki/Kosovo
+125.Kuwait - https://en.wikipedia.org/wiki/Kuwait
+126.Laos - https://en.wikipedia.org/wiki/Laos
+127.Lebanon - https://en.wikipedia.org/wiki/Lebanon
+128.Liberia - https://en.wikipedia.org/wiki/Liberia
+129.Libya - https://en.wikipedia.org/wiki/Libya
+130.Saint Lucia - https://en.wikipedia.org/wiki/Saint_Lucia
+131.Liechtenstein - https://en.wikipedia.org/wiki/Liechtenstein
+132.Sri Lanka - https://en.wikipedia.org/wiki/Sri_Lanka
+133.Lesotho - https://en.wikipedia.org/wiki/Lesotho
+134.Lithuania - https://en.wikipedia.org/wiki/Lithuania
+135.Luxembourg - https://en.wikipedia.org/wiki/Luxembourg
+136.Latvia - https://en.wikipedia.org/wiki/Latvia
+137.Macau - https://en.wikipedia.org/wiki/Macau
+138.Saint Martin - https://en.wikipedia.org/wiki/Saint_Martin
+139.Morocco - https://en.wikipedia.org/wiki/Morocco
+140.Monaco - https://en.wikipedia.org/wiki/Monaco
+141.Moldova - https://en.wikipedia.org/wiki/Moldova
+142.Madagascar - https://en.wikipedia.org/wiki/Madagascar
+143.Maldives - https://en.wikipedia.org/wiki/Maldives
+144.Mexico - https://en.wikipedia.org/wiki/Mexico
+145.Marshall Islands - https://en.wikipedia.org/wiki/Marshall_Islands
+146.North Macedonia - https://en.wikipedia.org/wiki/North_Macedonia
+147.Mali - https://en.wikipedia.org/wiki/Mali
+148.Malta - https://en.wikipedia.org/wiki/Malta
+149.Myanmar - https://en.wikipedia.org/wiki/Myanmar
+150.Montenegro - https://en.wikipedia.org/wiki/Montenegro
+151.Mongolia - https://en.wikipedia.org/wiki/Mongolia
+152.Northern Mariana Islands - https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+153.Mozambique - https://en.wikipedia.org/wiki/Mozambique
+154.Mauritania - https://en.wikipedia.org/wiki/Mauritania
+155.Montserrat - https://en.wikipedia.org/wiki/Montserrat
+156.Martinique - https://en.wikipedia.org/wiki/Martinique
+157.Mauritius - https://en.wikipedia.org/wiki/Mauritius
+158.Malawi - https://en.wikipedia.org/wiki/Malawi
+159.Malaysia - https://en.wikipedia.org/wiki/Malaysia
+160.Mayotte - https://en.wikipedia.org/wiki/Mayotte
+161.Namibia - https://en.wikipedia.org/wiki/Namibia
+162.New Caledonia - https://en.wikipedia.org/wiki/New_Caledonia
+163.Niger - https://en.wikipedia.org/wiki/Niger
+164.Norfolk Island - https://en.wikipedia.org/wiki/Norfolk_Island
+165.Nigeria - https://en.wikipedia.org/wiki/Nigeria
+166.Nicaragua - https://en.wikipedia.org/wiki/Nicaragua
+167.Niue - https://en.wikipedia.org/wiki/Niue
+168.Netherlands - https://en.wikipedia.org/wiki/Netherlands
+169.Norway - https://en.wikipedia.org/wiki/Norway
+170.Nepal - https://en.wikipedia.org/wiki/Nepal
+171.Nauru - https://en.wikipedia.org/wiki/Nauru
+172.New Zealand - https://en.wikipedia.org/wiki/New_Zealand
+173.Oman - https://en.wikipedia.org/wiki/Oman
+174.Pakistan - https://en.wikipedia.org/wiki/Pakistan
+175.Panama - https://en.wikipedia.org/wiki/Panama
+176.Pitcairn Islands - https://en.wikipedia.org/wiki/Pitcairn_Islands
+177.Peru - https://en.wikipedia.org/wiki/Peru
+178.Philippines - https://en.wikipedia.org/wiki/Philippines
+179.Palau - https://en.wikipedia.org/wiki/Palau
+180.Papua New Guinea - https://en.wikipedia.org/wiki/Papua_New_Guinea
+181.Poland - https://en.wikipedia.org/wiki/Poland
+182.Puerto Rico - https://en.wikipedia.org/wiki/Puerto_Rico
+183.North Korea - https://en.wikipedia.org/wiki/North_Korea
+184.Portugal - https://en.wikipedia.org/wiki/Portugal
+185.Paraguay - https://en.wikipedia.org/wiki/Paraguay
+186.Palestine - https://en.wikipedia.org/wiki/Palestine
+187.French Polynesia - https://en.wikipedia.org/wiki/French_Polynesia
+188.Qatar - https://en.wikipedia.org/wiki/Qatar
+190.Romania - https://en.wikipedia.org/wiki/Romania
+191.Russia - https://en.wikipedia.org/wiki/Russia
+192.Rwanda - https://en.wikipedia.org/wiki/Rwanda
+193.Saudi Arabia - https://en.wikipedia.org/wiki/Saudi_Arabia
+194.Sudan - https://en.wikipedia.org/wiki/Sudan
+195.Senegal - https://en.wikipedia.org/wiki/Senegal
+196.Singapore - https://en.wikipedia.org/wiki/Singapore
+197.South Georgia - https://en.wikipedia.org/wiki/South_Georgia
+198.Svalbard and Jan Mayen - https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen
+199.Solomon Islands - https://en.wikipedia.org/wiki/Solomon_Islands
+200.Sierra Leone - https://en.wikipedia.org/wiki/Sierra_Leone
+201.El Salvador - https://en.wikipedia.org/wiki/El_Salvador
+202.San Marino - https://en.wikipedia.org/wiki/San_Marino
+203.Somalia - https://en.wikipedia.org/wiki/Somalia
+204.Saint Pierre and Miquelon - https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon
+205.Serbia - https://en.wikipedia.org/wiki/Serbia
+206.South Sudan - https://en.wikipedia.org/wiki/South_Sudan
+208.Suriname - https://en.wikipedia.org/wiki/Suriname
+209.Slovakia - https://en.wikipedia.org/wiki/Slovakia
+210.Slovenia - https://en.wikipedia.org/wiki/Slovenia
+211.Sweden - https://en.wikipedia.org/wiki/Sweden
+212.Eswatini - https://en.wikipedia.org/wiki/Eswatini
+213.Sint Maarten - https://en.wikipedia.org/wiki/Sint_Maarten
+214.Seychelles - https://en.wikipedia.org/wiki/Seychelles
+215.Syria - https://en.wikipedia.org/wiki/Syria
+216.Turks and Caicos Islands - https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands
+217.Chad - https://en.wikipedia.org/wiki/Chad
+218.Togo - https://en.wikipedia.org/wiki/Togo
+219.Thailand - https://en.wikipedia.org/wiki/Thailand
+220.Tajikistan - https://en.wikipedia.org/wiki/Tajikistan
+221.Tokelau - https://en.wikipedia.org/wiki/Tokelau
+222.Turkmenistan - https://en.wikipedia.org/wiki/Turkmenistan
+223.Timor-Leste - https://en.wikipedia.org/wiki/East_Timor
+224.Tonga - https://en.wikipedia.org/wiki/Tonga
+225.Trinidad and Tobago - https://en.wikipedia.org/wiki/Trinidad_and_Tobago
+226.Tunisia - https://en.wikipedia.org/wiki/Tunisia
+227.Turkey - https://en.wikipedia.org/wiki/Turkey
+228.Tuvalu - https://en.wikipedia.org/wiki/Tuvalu
+229.Taiwan - https://en.wikipedia.org/wiki/Taiwan
+230.Tanzania - https://en.wikipedia.org/wiki/Tanzania
+231.Uganda - https://en.wikipedia.org/wiki/Uganda
+232.Ukraine - https://en.wikipedia.org/wiki/Ukraine
+233.United States Minor Outlying Islands - https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands
+234.Uruguay - https://en.wikipedia.org/wiki/Uruguay
+235.United States - https://en.wikipedia.org/wiki/United_States
+236.Uzbekistan - https://en.wikipedia.org/wiki/Uzbekistan
+237.Vatican City - https://en.wikipedia.org/wiki/Vatican_City
+238.Saint Vincent and the Grenadines - https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines
+239.Venezuela - https://en.wikipedia.org/wiki/Venezuela
+240.British Virgin Islands - https://en.wikipedia.org/wiki/British_Virgin_Islands
+241.United States Virgin Islands - https://en.wikipedia.org/wiki/United_States_Virgin_Islands
+242.Vietnam - https://en.wikipedia.org/wiki/Vietnam
+243.Vanuatu - https://en.wikipedia.org/wiki/Vanuatu
+244.Wallis and Futuna - https://en.wikipedia.org/wiki/Wallis_and_Futuna
+245.Samoa - https://en.wikipedia.org/wiki/Samoa
+246.Yemen - https://en.wikipedia.org/wiki/Yemen
+247.South Africa - https://en.wikipedia.org/wiki/South_Africa
+248.Zambia - https://en.wikipedia.org/wiki/Zambia
+249.Zimbabwe - https://en.wikipedia.org/wiki/Zimbabwe
